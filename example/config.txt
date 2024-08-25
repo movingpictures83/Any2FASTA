@@ -1,0 +1,2 @@
+Prefix plugins/Any2FASTA/example/
+Plugin Any2FASTA inputfile assembly.gbk outputfile assembly.fasta
